@@ -1,0 +1,5 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true
+}
