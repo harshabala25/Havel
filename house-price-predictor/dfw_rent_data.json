@@ -1,0 +1,2090 @@
+[
+  {
+    "zip_code": "MSA level",
+    "Efficiency": 1582,
+    "One-Bedroom": 1648,
+    "Two-Bedroom": 1931,
+    "Three-Bedroom": 2431,
+    "Four-Bedroom": 3091
+  },
+  {
+    "zip_code": "75001",
+    "Efficiency": 2050,
+    "One-Bedroom": 2130,
+    "Two-Bedroom": 2500,
+    "Three-Bedroom": 3150,
+    "Four-Bedroom": 4000
+  },
+  {
+    "zip_code": "75002",
+    "Efficiency": 2040,
+    "One-Bedroom": 2130,
+    "Two-Bedroom": 2490,
+    "Three-Bedroom": 3140,
+    "Four-Bedroom": 3990
+  },
+  {
+    "zip_code": "75006",
+    "Efficiency": 1650,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2010,
+    "Three-Bedroom": 2530,
+    "Four-Bedroom": 3220
+  },
+  {
+    "zip_code": "75007",
+    "Efficiency": 1630,
+    "One-Bedroom": 1700,
+    "Two-Bedroom": 1990,
+    "Three-Bedroom": 2510,
+    "Four-Bedroom": 3190
+  },
+  {
+    "zip_code": "75009",
+    "Efficiency": 1940,
+    "One-Bedroom": 2020,
+    "Two-Bedroom": 2370,
+    "Three-Bedroom": 2980,
+    "Four-Bedroom": 3790
+  },
+  {
+    "zip_code": "75010",
+    "Efficiency": 1820,
+    "One-Bedroom": 1890,
+    "Two-Bedroom": 2220,
+    "Three-Bedroom": 2800,
+    "Four-Bedroom": 3550
+  },
+  {
+    "zip_code": "75011",
+    "Efficiency": 1560,
+    "One-Bedroom": 1630,
+    "Two-Bedroom": 1910,
+    "Three-Bedroom": 2400,
+    "Four-Bedroom": 3050
+  },
+  {
+    "zip_code": "75013",
+    "Efficiency": 1840,
+    "One-Bedroom": 1920,
+    "Two-Bedroom": 2250,
+    "Three-Bedroom": 2830,
+    "Four-Bedroom": 3600
+  },
+  {
+    "zip_code": "75014",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75015",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75016",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75017",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75019",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75022",
+    "Efficiency": 2200,
+    "One-Bedroom": 2290,
+    "Two-Bedroom": 2680,
+    "Three-Bedroom": 3390,
+    "Four-Bedroom": 4300
+  },
+  {
+    "zip_code": "75023",
+    "Efficiency": 1800,
+    "One-Bedroom": 1880,
+    "Two-Bedroom": 2200,
+    "Three-Bedroom": 2770,
+    "Four-Bedroom": 3520
+  },
+  {
+    "zip_code": "75024",
+    "Efficiency": 2110,
+    "One-Bedroom": 2200,
+    "Two-Bedroom": 2580,
+    "Three-Bedroom": 3250,
+    "Four-Bedroom": 4130
+  },
+  {
+    "zip_code": "75025",
+    "Efficiency": 2030,
+    "One-Bedroom": 2120,
+    "Two-Bedroom": 2480,
+    "Three-Bedroom": 3120,
+    "Four-Bedroom": 3970
+  },
+  {
+    "zip_code": "75026",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75027",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "75028",
+    "Efficiency": 2290,
+    "One-Bedroom": 2390,
+    "Two-Bedroom": 2800,
+    "Three-Bedroom": 3520,
+    "Four-Bedroom": 4480
+  },
+  {
+    "zip_code": "75029",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "75030",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75032",
+    "Efficiency": 1940,
+    "One-Bedroom": 2020,
+    "Two-Bedroom": 2370,
+    "Three-Bedroom": 2980,
+    "Four-Bedroom": 3790
+  },
+  {
+    "zip_code": "75033",
+    "Efficiency": 2090,
+    "One-Bedroom": 2180,
+    "Two-Bedroom": 2550,
+    "Three-Bedroom": 3210,
+    "Four-Bedroom": 4080
+  },
+  {
+    "zip_code": "75034",
+    "Efficiency": 2080,
+    "One-Bedroom": 2170,
+    "Two-Bedroom": 2540,
+    "Three-Bedroom": 3200,
+    "Four-Bedroom": 4070
+  },
+  {
+    "zip_code": "75035",
+    "Efficiency": 2280,
+    "One-Bedroom": 2370,
+    "Two-Bedroom": 2780,
+    "Three-Bedroom": 3500,
+    "Four-Bedroom": 4450
+  },
+  {
+    "zip_code": "75036",
+    "Efficiency": 2290,
+    "One-Bedroom": 2380,
+    "Two-Bedroom": 2790,
+    "Three-Bedroom": 3510,
+    "Four-Bedroom": 4470
+  },
+  {
+    "zip_code": "75038",
+    "Efficiency": 1710,
+    "One-Bedroom": 1780,
+    "Two-Bedroom": 2090,
+    "Three-Bedroom": 2630,
+    "Four-Bedroom": 3350
+  },
+  {
+    "zip_code": "75039",
+    "Efficiency": 2230,
+    "One-Bedroom": 2320,
+    "Two-Bedroom": 2720,
+    "Three-Bedroom": 3420,
+    "Four-Bedroom": 4350
+  },
+  {
+    "zip_code": "75040",
+    "Efficiency": 1580,
+    "One-Bedroom": 1650,
+    "Two-Bedroom": 1930,
+    "Three-Bedroom": 2430,
+    "Four-Bedroom": 3090
+  },
+  {
+    "zip_code": "75041",
+    "Efficiency": 1380,
+    "One-Bedroom": 1430,
+    "Two-Bedroom": 1680,
+    "Three-Bedroom": 2120,
+    "Four-Bedroom": 2690
+  },
+  {
+    "zip_code": "75042",
+    "Efficiency": 1350,
+    "One-Bedroom": 1410,
+    "Two-Bedroom": 1650,
+    "Three-Bedroom": 2080,
+    "Four-Bedroom": 2640
+  },
+  {
+    "zip_code": "75043",
+    "Efficiency": 1540,
+    "One-Bedroom": 1600,
+    "Two-Bedroom": 1880,
+    "Three-Bedroom": 2370,
+    "Four-Bedroom": 3010
+  },
+  {
+    "zip_code": "75044",
+    "Efficiency": 1750,
+    "One-Bedroom": 1820,
+    "Two-Bedroom": 2130,
+    "Three-Bedroom": 2680,
+    "Four-Bedroom": 3410
+  },
+  {
+    "zip_code": "75045",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75046",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75047",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75048",
+    "Efficiency": 1910,
+    "One-Bedroom": 1990,
+    "Two-Bedroom": 2330,
+    "Three-Bedroom": 2930,
+    "Four-Bedroom": 3730
+  },
+  {
+    "zip_code": "75049",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75050",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2340,
+    "Four-Bedroom": 2960
+  },
+  {
+    "zip_code": "75051",
+    "Efficiency": 1250,
+    "One-Bedroom": 1300,
+    "Two-Bedroom": 1530,
+    "Three-Bedroom": 1930,
+    "Four-Bedroom": 2450
+  },
+  {
+    "zip_code": "75052",
+    "Efficiency": 1730,
+    "One-Bedroom": 1800,
+    "Two-Bedroom": 2100,
+    "Three-Bedroom": 2700,
+    "Four-Bedroom": 3400
+  },
+  {
+    "zip_code": "75053",
+    "Efficiency": 1480,
+    "One-Bedroom": 1540,
+    "Two-Bedroom": 1800,
+    "Three-Bedroom": 2310,
+    "Four-Bedroom": 2910
+  },
+  {
+    "zip_code": "75054",
+    "Efficiency": 2070,
+    "One-Bedroom": 2140,
+    "Two-Bedroom": 2500,
+    "Three-Bedroom": 3300,
+    "Four-Bedroom": 4090
+  },
+  {
+    "zip_code": "75056",
+    "Efficiency": 1820,
+    "One-Bedroom": 1890,
+    "Two-Bedroom": 2220,
+    "Three-Bedroom": 2800,
+    "Four-Bedroom": 3550
+  },
+  {
+    "zip_code": "75057",
+    "Efficiency": 1640,
+    "One-Bedroom": 1710,
+    "Two-Bedroom": 2000,
+    "Three-Bedroom": 2520,
+    "Four-Bedroom": 3200
+  },
+  {
+    "zip_code": "75058",
+    "Efficiency": 1390,
+    "One-Bedroom": 1390,
+    "Two-Bedroom": 1720,
+    "Three-Bedroom": 2390,
+    "Four-Bedroom": 2750
+  },
+  {
+    "zip_code": "75060",
+    "Efficiency": 1430,
+    "One-Bedroom": 1490,
+    "Two-Bedroom": 1750,
+    "Three-Bedroom": 2200,
+    "Four-Bedroom": 2800
+  },
+  {
+    "zip_code": "75061",
+    "Efficiency": 1410,
+    "One-Bedroom": 1470,
+    "Two-Bedroom": 1720,
+    "Three-Bedroom": 2170,
+    "Four-Bedroom": 2750
+  },
+  {
+    "zip_code": "75062",
+    "Efficiency": 1490,
+    "One-Bedroom": 1550,
+    "Two-Bedroom": 1820,
+    "Three-Bedroom": 2290,
+    "Four-Bedroom": 2910
+  },
+  {
+    "zip_code": "75063",
+    "Efficiency": 1890,
+    "One-Bedroom": 1970,
+    "Two-Bedroom": 2310,
+    "Three-Bedroom": 2910,
+    "Four-Bedroom": 3700
+  },
+  {
+    "zip_code": "75065",
+    "Efficiency": 1670,
+    "One-Bedroom": 1740,
+    "Two-Bedroom": 2040,
+    "Three-Bedroom": 2570,
+    "Four-Bedroom": 3270
+  },
+  {
+    "zip_code": "75067",
+    "Efficiency": 1700,
+    "One-Bedroom": 1770,
+    "Two-Bedroom": 2070,
+    "Three-Bedroom": 2610,
+    "Four-Bedroom": 3310
+  },
+  {
+    "zip_code": "75068",
+    "Efficiency": 2200,
+    "One-Bedroom": 2290,
+    "Two-Bedroom": 2680,
+    "Three-Bedroom": 3370,
+    "Four-Bedroom": 4290
+  },
+  {
+    "zip_code": "75069",
+    "Efficiency": 1630,
+    "One-Bedroom": 1700,
+    "Two-Bedroom": 1990,
+    "Three-Bedroom": 2510,
+    "Four-Bedroom": 3190
+  },
+  {
+    "zip_code": "75070",
+    "Efficiency": 1830,
+    "One-Bedroom": 1900,
+    "Two-Bedroom": 2230,
+    "Three-Bedroom": 2810,
+    "Four-Bedroom": 3570
+  },
+  {
+    "zip_code": "75071",
+    "Efficiency": 2160,
+    "One-Bedroom": 2250,
+    "Two-Bedroom": 2640,
+    "Three-Bedroom": 3320,
+    "Four-Bedroom": 4230
+  },
+  {
+    "zip_code": "75072",
+    "Efficiency": 2380,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2900,
+    "Three-Bedroom": 3650,
+    "Four-Bedroom": 4640
+  },
+  {
+    "zip_code": "75074",
+    "Efficiency": 1750,
+    "One-Bedroom": 1820,
+    "Two-Bedroom": 2130,
+    "Three-Bedroom": 2680,
+    "Four-Bedroom": 3410
+  },
+  {
+    "zip_code": "75075",
+    "Efficiency": 1700,
+    "One-Bedroom": 1770,
+    "Two-Bedroom": 2070,
+    "Three-Bedroom": 2610,
+    "Four-Bedroom": 3310
+  },
+  {
+    "zip_code": "75077",
+    "Efficiency": 1870,
+    "One-Bedroom": 1950,
+    "Two-Bedroom": 2280,
+    "Three-Bedroom": 2870,
+    "Four-Bedroom": 3650
+  },
+  {
+    "zip_code": "75078",
+    "Efficiency": 2290,
+    "One-Bedroom": 2380,
+    "Two-Bedroom": 2790,
+    "Three-Bedroom": 3510,
+    "Four-Bedroom": 4470
+  },
+  {
+    "zip_code": "75080",
+    "Efficiency": 1770,
+    "One-Bedroom": 1840,
+    "Two-Bedroom": 2160,
+    "Three-Bedroom": 2720,
+    "Four-Bedroom": 3460
+  },
+  {
+    "zip_code": "75081",
+    "Efficiency": 1800,
+    "One-Bedroom": 1880,
+    "Two-Bedroom": 2200,
+    "Three-Bedroom": 2770,
+    "Four-Bedroom": 3520
+  },
+  {
+    "zip_code": "75082",
+    "Efficiency": 2020,
+    "One-Bedroom": 2100,
+    "Two-Bedroom": 2460,
+    "Three-Bedroom": 3100,
+    "Four-Bedroom": 3940
+  },
+  {
+    "zip_code": "75083",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75085",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75086",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75087",
+    "Efficiency": 1720,
+    "One-Bedroom": 1790,
+    "Two-Bedroom": 2100,
+    "Three-Bedroom": 2640,
+    "Four-Bedroom": 3360
+  },
+  {
+    "zip_code": "75088",
+    "Efficiency": 2020,
+    "One-Bedroom": 2110,
+    "Two-Bedroom": 2470,
+    "Three-Bedroom": 3110,
+    "Four-Bedroom": 3950
+  },
+  {
+    "zip_code": "75089",
+    "Efficiency": 2000,
+    "One-Bedroom": 2080,
+    "Two-Bedroom": 2440,
+    "Three-Bedroom": 3070,
+    "Four-Bedroom": 3910
+  },
+  {
+    "zip_code": "75093",
+    "Efficiency": 2030,
+    "One-Bedroom": 2120,
+    "Two-Bedroom": 2480,
+    "Three-Bedroom": 3120,
+    "Four-Bedroom": 3970
+  },
+  {
+    "zip_code": "75094",
+    "Efficiency": 2380,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2900,
+    "Three-Bedroom": 3650,
+    "Four-Bedroom": 4640
+  },
+  {
+    "zip_code": "75097",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75098",
+    "Efficiency": 2040,
+    "One-Bedroom": 2130,
+    "Two-Bedroom": 2490,
+    "Three-Bedroom": 3140,
+    "Four-Bedroom": 3990
+  },
+  {
+    "zip_code": "75099",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75101",
+    "Efficiency": 1230,
+    "One-Bedroom": 1280,
+    "Two-Bedroom": 1500,
+    "Three-Bedroom": 1890,
+    "Four-Bedroom": 2400
+  },
+  {
+    "zip_code": "75104",
+    "Efficiency": 1910,
+    "One-Bedroom": 1990,
+    "Two-Bedroom": 2330,
+    "Three-Bedroom": 2930,
+    "Four-Bedroom": 3730
+  },
+  {
+    "zip_code": "75106",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75114",
+    "Efficiency": 1460,
+    "One-Bedroom": 1520,
+    "Two-Bedroom": 1780,
+    "Three-Bedroom": 2240,
+    "Four-Bedroom": 2850
+  },
+  {
+    "zip_code": "75115",
+    "Efficiency": 1560,
+    "One-Bedroom": 1620,
+    "Two-Bedroom": 1900,
+    "Three-Bedroom": 2390,
+    "Four-Bedroom": 3040
+  },
+  {
+    "zip_code": "75116",
+    "Efficiency": 1500,
+    "One-Bedroom": 1560,
+    "Two-Bedroom": 1830,
+    "Three-Bedroom": 2300,
+    "Four-Bedroom": 2930
+  },
+  {
+    "zip_code": "75118",
+    "Efficiency": 1420,
+    "One-Bedroom": 1480,
+    "Two-Bedroom": 1730,
+    "Three-Bedroom": 2180,
+    "Four-Bedroom": 2770
+  },
+  {
+    "zip_code": "75119",
+    "Efficiency": 1270,
+    "One-Bedroom": 1320,
+    "Two-Bedroom": 1550,
+    "Three-Bedroom": 1950,
+    "Four-Bedroom": 2480
+  },
+  {
+    "zip_code": "75123",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75125",
+    "Efficiency": 1210,
+    "One-Bedroom": 1260,
+    "Two-Bedroom": 1480,
+    "Three-Bedroom": 1860,
+    "Four-Bedroom": 2370
+  },
+  {
+    "zip_code": "75126",
+    "Efficiency": 2030,
+    "One-Bedroom": 2120,
+    "Two-Bedroom": 2480,
+    "Three-Bedroom": 3120,
+    "Four-Bedroom": 3970
+  },
+  {
+    "zip_code": "75132",
+    "Efficiency": 1900,
+    "One-Bedroom": 1980,
+    "Two-Bedroom": 2320,
+    "Three-Bedroom": 2920,
+    "Four-Bedroom": 3710
+  },
+  {
+    "zip_code": "75134",
+    "Efficiency": 1690,
+    "One-Bedroom": 1760,
+    "Two-Bedroom": 2060,
+    "Three-Bedroom": 2590,
+    "Four-Bedroom": 3300
+  },
+  {
+    "zip_code": "75135",
+    "Efficiency": 1500,
+    "One-Bedroom": 1560,
+    "Two-Bedroom": 1830,
+    "Three-Bedroom": 2300,
+    "Four-Bedroom": 2930
+  },
+  {
+    "zip_code": "75137",
+    "Efficiency": 1830,
+    "One-Bedroom": 1900,
+    "Two-Bedroom": 2230,
+    "Three-Bedroom": 2810,
+    "Four-Bedroom": 3570
+  },
+  {
+    "zip_code": "75138",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75141",
+    "Efficiency": 1570,
+    "One-Bedroom": 1630,
+    "Two-Bedroom": 1910,
+    "Three-Bedroom": 2400,
+    "Four-Bedroom": 3060
+  },
+  {
+    "zip_code": "75142",
+    "Efficiency": 1300,
+    "One-Bedroom": 1360,
+    "Two-Bedroom": 1590,
+    "Three-Bedroom": 2000,
+    "Four-Bedroom": 2550
+  },
+  {
+    "zip_code": "75143",
+    "Efficiency": 1020,
+    "One-Bedroom": 1090,
+    "Two-Bedroom": 1300,
+    "Three-Bedroom": 1670,
+    "Four-Bedroom": 2000
+  },
+  {
+    "zip_code": "75146",
+    "Efficiency": 1580,
+    "One-Bedroom": 1650,
+    "Two-Bedroom": 1930,
+    "Three-Bedroom": 2430,
+    "Four-Bedroom": 3090
+  },
+  {
+    "zip_code": "75147",
+    "Efficiency": 870,
+    "One-Bedroom": 900,
+    "Two-Bedroom": 1090,
+    "Three-Bedroom": 1390,
+    "Four-Bedroom": 1650
+  },
+  {
+    "zip_code": "75149",
+    "Efficiency": 1450,
+    "One-Bedroom": 1510,
+    "Two-Bedroom": 1770,
+    "Three-Bedroom": 2230,
+    "Four-Bedroom": 2830
+  },
+  {
+    "zip_code": "75150",
+    "Efficiency": 1500,
+    "One-Bedroom": 1560,
+    "Two-Bedroom": 1830,
+    "Three-Bedroom": 2300,
+    "Four-Bedroom": 2930
+  },
+  {
+    "zip_code": "75152",
+    "Efficiency": 1650,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2010,
+    "Three-Bedroom": 2530,
+    "Four-Bedroom": 3220
+  },
+  {
+    "zip_code": "75154",
+    "Efficiency": 1520,
+    "One-Bedroom": 1590,
+    "Two-Bedroom": 1860,
+    "Three-Bedroom": 2340,
+    "Four-Bedroom": 2980
+  },
+  {
+    "zip_code": "75156",
+    "Efficiency": 830,
+    "One-Bedroom": 890,
+    "Two-Bedroom": 1030,
+    "Three-Bedroom": 1300,
+    "Four-Bedroom": 1690
+  },
+  {
+    "zip_code": "75157",
+    "Efficiency": 1200,
+    "One-Bedroom": 1250,
+    "Two-Bedroom": 1470,
+    "Three-Bedroom": 1850,
+    "Four-Bedroom": 2350
+  },
+  {
+    "zip_code": "75158",
+    "Efficiency": 1200,
+    "One-Bedroom": 1250,
+    "Two-Bedroom": 1470,
+    "Three-Bedroom": 1850,
+    "Four-Bedroom": 2350
+  },
+  {
+    "zip_code": "75159",
+    "Efficiency": 1390,
+    "One-Bedroom": 1450,
+    "Two-Bedroom": 1700,
+    "Three-Bedroom": 2140,
+    "Four-Bedroom": 2720
+  },
+  {
+    "zip_code": "75160",
+    "Efficiency": 1250,
+    "One-Bedroom": 1300,
+    "Two-Bedroom": 1520,
+    "Three-Bedroom": 1910,
+    "Four-Bedroom": 2430
+  },
+  {
+    "zip_code": "75161",
+    "Efficiency": 930,
+    "One-Bedroom": 960,
+    "Two-Bedroom": 1130,
+    "Three-Bedroom": 1420,
+    "Four-Bedroom": 1810
+  },
+  {
+    "zip_code": "75164",
+    "Efficiency": 1630,
+    "One-Bedroom": 1700,
+    "Two-Bedroom": 2000,
+    "Three-Bedroom": 2510,
+    "Four-Bedroom": 3190
+  },
+  {
+    "zip_code": "75165",
+    "Efficiency": 1480,
+    "One-Bedroom": 1540,
+    "Two-Bedroom": 1810,
+    "Three-Bedroom": 2280,
+    "Four-Bedroom": 2900
+  },
+  {
+    "zip_code": "75166",
+    "Efficiency": 1930,
+    "One-Bedroom": 2010,
+    "Two-Bedroom": 2360,
+    "Three-Bedroom": 2970,
+    "Four-Bedroom": 3780
+  },
+  {
+    "zip_code": "75167",
+    "Efficiency": 2050,
+    "One-Bedroom": 2130,
+    "Two-Bedroom": 2500,
+    "Three-Bedroom": 3150,
+    "Four-Bedroom": 4000
+  },
+  {
+    "zip_code": "75168",
+    "Efficiency": 1470,
+    "One-Bedroom": 1530,
+    "Two-Bedroom": 1790,
+    "Three-Bedroom": 2250,
+    "Four-Bedroom": 2870
+  },
+  {
+    "zip_code": "75169",
+    "Efficiency": 820,
+    "One-Bedroom": 830,
+    "Two-Bedroom": 1070,
+    "Three-Bedroom": 1390,
+    "Four-Bedroom": 1490
+  },
+  {
+    "zip_code": "75172",
+    "Efficiency": 1270,
+    "One-Bedroom": 1320,
+    "Two-Bedroom": 1550,
+    "Three-Bedroom": 1950,
+    "Four-Bedroom": 2480
+  },
+  {
+    "zip_code": "75173",
+    "Efficiency": 1410,
+    "One-Bedroom": 1470,
+    "Two-Bedroom": 1720,
+    "Three-Bedroom": 2170,
+    "Four-Bedroom": 2750
+  },
+  {
+    "zip_code": "75180",
+    "Efficiency": 1320,
+    "One-Bedroom": 1370,
+    "Two-Bedroom": 1610,
+    "Three-Bedroom": 2030,
+    "Four-Bedroom": 2580
+  },
+  {
+    "zip_code": "75181",
+    "Efficiency": 2030,
+    "One-Bedroom": 2120,
+    "Two-Bedroom": 2480,
+    "Three-Bedroom": 3120,
+    "Four-Bedroom": 3970
+  },
+  {
+    "zip_code": "75182",
+    "Efficiency": 1520,
+    "One-Bedroom": 1590,
+    "Two-Bedroom": 1870,
+    "Three-Bedroom": 2340,
+    "Four-Bedroom": 2990
+  },
+  {
+    "zip_code": "75185",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75187",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75189",
+    "Efficiency": 2020,
+    "One-Bedroom": 2110,
+    "Two-Bedroom": 2470,
+    "Three-Bedroom": 3110,
+    "Four-Bedroom": 3950
+  },
+  {
+    "zip_code": "75201",
+    "Efficiency": 2380,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2900,
+    "Three-Bedroom": 3650,
+    "Four-Bedroom": 4640
+  },
+  {
+    "zip_code": "75202",
+    "Efficiency": 2110,
+    "One-Bedroom": 2200,
+    "Two-Bedroom": 2580,
+    "Three-Bedroom": 3250,
+    "Four-Bedroom": 4130
+  },
+  {
+    "zip_code": "75203",
+    "Efficiency": 1200,
+    "One-Bedroom": 1250,
+    "Two-Bedroom": 1460,
+    "Three-Bedroom": 1840,
+    "Four-Bedroom": 2340
+  },
+  {
+    "zip_code": "75204",
+    "Efficiency": 2270,
+    "One-Bedroom": 2360,
+    "Two-Bedroom": 2770,
+    "Three-Bedroom": 3490,
+    "Four-Bedroom": 4430
+  },
+  {
+    "zip_code": "75205",
+    "Efficiency": 2360,
+    "One-Bedroom": 2460,
+    "Two-Bedroom": 2880,
+    "Three-Bedroom": 3630,
+    "Four-Bedroom": 4610
+  },
+  {
+    "zip_code": "75206",
+    "Efficiency": 1980,
+    "One-Bedroom": 2070,
+    "Two-Bedroom": 2420,
+    "Three-Bedroom": 3050,
+    "Four-Bedroom": 3870
+  },
+  {
+    "zip_code": "75207",
+    "Efficiency": 1940,
+    "One-Bedroom": 2020,
+    "Two-Bedroom": 2370,
+    "Three-Bedroom": 2980,
+    "Four-Bedroom": 3790
+  },
+  {
+    "zip_code": "75208",
+    "Efficiency": 1610,
+    "One-Bedroom": 1680,
+    "Two-Bedroom": 1970,
+    "Three-Bedroom": 2480,
+    "Four-Bedroom": 3150
+  },
+  {
+    "zip_code": "75209",
+    "Efficiency": 1850,
+    "One-Bedroom": 1930,
+    "Two-Bedroom": 2260,
+    "Three-Bedroom": 2850,
+    "Four-Bedroom": 3620
+  },
+  {
+    "zip_code": "75210",
+    "Efficiency": 1000,
+    "One-Bedroom": 1040,
+    "Two-Bedroom": 1220,
+    "Three-Bedroom": 1540,
+    "Four-Bedroom": 1950
+  },
+  {
+    "zip_code": "75211",
+    "Efficiency": 1250,
+    "One-Bedroom": 1310,
+    "Two-Bedroom": 1530,
+    "Three-Bedroom": 1930,
+    "Four-Bedroom": 2450
+  },
+  {
+    "zip_code": "75212",
+    "Efficiency": 1250,
+    "One-Bedroom": 1310,
+    "Two-Bedroom": 1530,
+    "Three-Bedroom": 1930,
+    "Four-Bedroom": 2450
+  },
+  {
+    "zip_code": "75214",
+    "Efficiency": 1780,
+    "One-Bedroom": 1850,
+    "Two-Bedroom": 2170,
+    "Three-Bedroom": 2730,
+    "Four-Bedroom": 3470
+  },
+  {
+    "zip_code": "75215",
+    "Efficiency": 1260,
+    "One-Bedroom": 1310,
+    "Two-Bedroom": 1540,
+    "Three-Bedroom": 1940,
+    "Four-Bedroom": 2470
+  },
+  {
+    "zip_code": "75216",
+    "Efficiency": 1120,
+    "One-Bedroom": 1170,
+    "Two-Bedroom": 1370,
+    "Three-Bedroom": 1720,
+    "Four-Bedroom": 2190
+  },
+  {
+    "zip_code": "75217",
+    "Efficiency": 1160,
+    "One-Bedroom": 1200,
+    "Two-Bedroom": 1410,
+    "Three-Bedroom": 1780,
+    "Four-Bedroom": 2260
+  },
+  {
+    "zip_code": "75218",
+    "Efficiency": 1710,
+    "One-Bedroom": 1780,
+    "Two-Bedroom": 2090,
+    "Three-Bedroom": 2630,
+    "Four-Bedroom": 3350
+  },
+  {
+    "zip_code": "75219",
+    "Efficiency": 1960,
+    "One-Bedroom": 2040,
+    "Two-Bedroom": 2390,
+    "Three-Bedroom": 3010,
+    "Four-Bedroom": 3830
+  },
+  {
+    "zip_code": "75220",
+    "Efficiency": 1380,
+    "One-Bedroom": 1430,
+    "Two-Bedroom": 1680,
+    "Three-Bedroom": 2120,
+    "Four-Bedroom": 2690
+  },
+  {
+    "zip_code": "75221",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75222",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75223",
+    "Efficiency": 1430,
+    "One-Bedroom": 1480,
+    "Two-Bedroom": 1740,
+    "Three-Bedroom": 2190,
+    "Four-Bedroom": 2790
+  },
+  {
+    "zip_code": "75224",
+    "Efficiency": 1220,
+    "One-Bedroom": 1270,
+    "Two-Bedroom": 1490,
+    "Three-Bedroom": 1880,
+    "Four-Bedroom": 2390
+  },
+  {
+    "zip_code": "75225",
+    "Efficiency": 2380,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2900,
+    "Three-Bedroom": 3650,
+    "Four-Bedroom": 4640
+  },
+  {
+    "zip_code": "75226",
+    "Efficiency": 1730,
+    "One-Bedroom": 1800,
+    "Two-Bedroom": 2110,
+    "Three-Bedroom": 2660,
+    "Four-Bedroom": 3380
+  },
+  {
+    "zip_code": "75227",
+    "Efficiency": 1300,
+    "One-Bedroom": 1360,
+    "Two-Bedroom": 1590,
+    "Three-Bedroom": 2000,
+    "Four-Bedroom": 2550
+  },
+  {
+    "zip_code": "75228",
+    "Efficiency": 1300,
+    "One-Bedroom": 1360,
+    "Two-Bedroom": 1590,
+    "Three-Bedroom": 2000,
+    "Four-Bedroom": 2550
+  },
+  {
+    "zip_code": "75229",
+    "Efficiency": 1570,
+    "One-Bedroom": 1640,
+    "Two-Bedroom": 1920,
+    "Three-Bedroom": 2420,
+    "Four-Bedroom": 3070
+  },
+  {
+    "zip_code": "75230",
+    "Efficiency": 1520,
+    "One-Bedroom": 1580,
+    "Two-Bedroom": 1850,
+    "Three-Bedroom": 2330,
+    "Four-Bedroom": 2960
+  },
+  {
+    "zip_code": "75231",
+    "Efficiency": 1430,
+    "One-Bedroom": 1480,
+    "Two-Bedroom": 1740,
+    "Three-Bedroom": 2190,
+    "Four-Bedroom": 2790
+  },
+  {
+    "zip_code": "75232",
+    "Efficiency": 1340,
+    "One-Bedroom": 1400,
+    "Two-Bedroom": 1640,
+    "Three-Bedroom": 2060,
+    "Four-Bedroom": 2630
+  },
+  {
+    "zip_code": "75233",
+    "Efficiency": 1330,
+    "One-Bedroom": 1380,
+    "Two-Bedroom": 1620,
+    "Three-Bedroom": 2040,
+    "Four-Bedroom": 2590
+  },
+  {
+    "zip_code": "75234",
+    "Efficiency": 1760,
+    "One-Bedroom": 1830,
+    "Two-Bedroom": 2150,
+    "Three-Bedroom": 2710,
+    "Four-Bedroom": 3440
+  },
+  {
+    "zip_code": "75235",
+    "Efficiency": 1660,
+    "One-Bedroom": 1730,
+    "Two-Bedroom": 2030,
+    "Three-Bedroom": 2560,
+    "Four-Bedroom": 3250
+  },
+  {
+    "zip_code": "75236",
+    "Efficiency": 1320,
+    "One-Bedroom": 1370,
+    "Two-Bedroom": 1610,
+    "Three-Bedroom": 2030,
+    "Four-Bedroom": 2580
+  },
+  {
+    "zip_code": "75237",
+    "Efficiency": 1220,
+    "One-Bedroom": 1270,
+    "Two-Bedroom": 1490,
+    "Three-Bedroom": 1880,
+    "Four-Bedroom": 2390
+  },
+  {
+    "zip_code": "75238",
+    "Efficiency": 1360,
+    "One-Bedroom": 1420,
+    "Two-Bedroom": 1660,
+    "Three-Bedroom": 2090,
+    "Four-Bedroom": 2660
+  },
+  {
+    "zip_code": "75240",
+    "Efficiency": 1470,
+    "One-Bedroom": 1530,
+    "Two-Bedroom": 1790,
+    "Three-Bedroom": 2250,
+    "Four-Bedroom": 2870
+  },
+  {
+    "zip_code": "75241",
+    "Efficiency": 1290,
+    "One-Bedroom": 1350,
+    "Two-Bedroom": 1580,
+    "Three-Bedroom": 1990,
+    "Four-Bedroom": 2530
+  },
+  {
+    "zip_code": "75242",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75243",
+    "Efficiency": 1490,
+    "One-Bedroom": 1550,
+    "Two-Bedroom": 1820,
+    "Three-Bedroom": 2290,
+    "Four-Bedroom": 2910
+  },
+  {
+    "zip_code": "75244",
+    "Efficiency": 1930,
+    "One-Bedroom": 2010,
+    "Two-Bedroom": 2350,
+    "Three-Bedroom": 2960,
+    "Four-Bedroom": 3760
+  },
+  {
+    "zip_code": "75246",
+    "Efficiency": 1130,
+    "One-Bedroom": 1180,
+    "Two-Bedroom": 1380,
+    "Three-Bedroom": 1740,
+    "Four-Bedroom": 2210
+  },
+  {
+    "zip_code": "75247",
+    "Efficiency": 1290,
+    "One-Bedroom": 1340,
+    "Two-Bedroom": 1570,
+    "Three-Bedroom": 1980,
+    "Four-Bedroom": 2510
+  },
+  {
+    "zip_code": "75248",
+    "Efficiency": 1860,
+    "One-Bedroom": 1940,
+    "Two-Bedroom": 2270,
+    "Three-Bedroom": 2860,
+    "Four-Bedroom": 3630
+  },
+  {
+    "zip_code": "75249",
+    "Efficiency": 2010,
+    "One-Bedroom": 2090,
+    "Two-Bedroom": 2450,
+    "Three-Bedroom": 3080,
+    "Four-Bedroom": 3920
+  },
+  {
+    "zip_code": "75250",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75251",
+    "Efficiency": 1800,
+    "One-Bedroom": 1880,
+    "Two-Bedroom": 2200,
+    "Three-Bedroom": 2770,
+    "Four-Bedroom": 3520
+  },
+  {
+    "zip_code": "75252",
+    "Efficiency": 1410,
+    "One-Bedroom": 1470,
+    "Two-Bedroom": 1720,
+    "Three-Bedroom": 2170,
+    "Four-Bedroom": 2750
+  },
+  {
+    "zip_code": "75253",
+    "Efficiency": 1420,
+    "One-Bedroom": 1480,
+    "Two-Bedroom": 1730,
+    "Three-Bedroom": 2180,
+    "Four-Bedroom": 2770
+  },
+  {
+    "zip_code": "75254",
+    "Efficiency": 1770,
+    "One-Bedroom": 1840,
+    "Two-Bedroom": 2160,
+    "Three-Bedroom": 2720,
+    "Four-Bedroom": 3460
+  },
+  {
+    "zip_code": "75261",
+    "Efficiency": 1500,
+    "One-Bedroom": 1560,
+    "Two-Bedroom": 1830,
+    "Three-Bedroom": 2310,
+    "Four-Bedroom": 2940
+  },
+  {
+    "zip_code": "75270",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75287",
+    "Efficiency": 1760,
+    "One-Bedroom": 1830,
+    "Two-Bedroom": 2150,
+    "Three-Bedroom": 2710,
+    "Four-Bedroom": 3440
+  },
+  {
+    "zip_code": "75313",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75315",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75336",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75339",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75342",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75354",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75355",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75356",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75357",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75360",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75367",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75370",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75371",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75372",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75374",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75376",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75378",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75379",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75380",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75381",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75382",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75390",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75398",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2320,
+    "Four-Bedroom": 2950
+  },
+  {
+    "zip_code": "75401",
+    "Efficiency": 1210,
+    "One-Bedroom": 1260,
+    "Two-Bedroom": 1480,
+    "Three-Bedroom": 1860,
+    "Four-Bedroom": 2370
+  },
+  {
+    "zip_code": "75402",
+    "Efficiency": 1440,
+    "One-Bedroom": 1500,
+    "Two-Bedroom": 1760,
+    "Three-Bedroom": 2220,
+    "Four-Bedroom": 2820
+  },
+  {
+    "zip_code": "75403",
+    "Efficiency": 1240,
+    "One-Bedroom": 1290,
+    "Two-Bedroom": 1510,
+    "Three-Bedroom": 1900,
+    "Four-Bedroom": 2420
+  },
+  {
+    "zip_code": "75404",
+    "Efficiency": 1240,
+    "One-Bedroom": 1290,
+    "Two-Bedroom": 1510,
+    "Three-Bedroom": 1900,
+    "Four-Bedroom": 2420
+  },
+  {
+    "zip_code": "75407",
+    "Efficiency": 1870,
+    "One-Bedroom": 1950,
+    "Two-Bedroom": 2280,
+    "Three-Bedroom": 2870,
+    "Four-Bedroom": 3650
+  },
+  {
+    "zip_code": "75409",
+    "Efficiency": 2040,
+    "One-Bedroom": 2130,
+    "Two-Bedroom": 2490,
+    "Three-Bedroom": 3140,
+    "Four-Bedroom": 3990
+  },
+  {
+    "zip_code": "75422",
+    "Efficiency": 1190,
+    "One-Bedroom": 1240,
+    "Two-Bedroom": 1450,
+    "Three-Bedroom": 1830,
+    "Four-Bedroom": 2320
+  },
+  {
+    "zip_code": "75423",
+    "Efficiency": 1120,
+    "One-Bedroom": 1170,
+    "Two-Bedroom": 1370,
+    "Three-Bedroom": 1720,
+    "Four-Bedroom": 2190
+  },
+  {
+    "zip_code": "75424",
+    "Efficiency": 1400,
+    "One-Bedroom": 1460,
+    "Two-Bedroom": 1720,
+    "Three-Bedroom": 2170,
+    "Four-Bedroom": 2760
+  },
+  {
+    "zip_code": "75428",
+    "Efficiency": 1010,
+    "One-Bedroom": 1050,
+    "Two-Bedroom": 1240,
+    "Three-Bedroom": 1560,
+    "Four-Bedroom": 1980
+  },
+  {
+    "zip_code": "75429",
+    "Efficiency": 1240,
+    "One-Bedroom": 1290,
+    "Two-Bedroom": 1510,
+    "Three-Bedroom": 1900,
+    "Four-Bedroom": 2420
+  },
+  {
+    "zip_code": "75433",
+    "Efficiency": 910,
+    "One-Bedroom": 970,
+    "Two-Bedroom": 1130,
+    "Three-Bedroom": 1420,
+    "Four-Bedroom": 1810
+  },
+  {
+    "zip_code": "75442",
+    "Efficiency": 1490,
+    "One-Bedroom": 1550,
+    "Two-Bedroom": 1820,
+    "Three-Bedroom": 2290,
+    "Four-Bedroom": 2910
+  },
+  {
+    "zip_code": "75448",
+    "Efficiency": 920,
+    "One-Bedroom": 970,
+    "Two-Bedroom": 1140,
+    "Three-Bedroom": 1490,
+    "Four-Bedroom": 1810
+  },
+  {
+    "zip_code": "75449",
+    "Efficiency": 860,
+    "One-Bedroom": 900,
+    "Two-Bedroom": 1120,
+    "Three-Bedroom": 1510,
+    "Four-Bedroom": 1850
+  },
+  {
+    "zip_code": "75452",
+    "Efficiency": 870,
+    "One-Bedroom": 910,
+    "Two-Bedroom": 1080,
+    "Three-Bedroom": 1490,
+    "Four-Bedroom": 1800
+  },
+  {
+    "zip_code": "75453",
+    "Efficiency": 1170,
+    "One-Bedroom": 1230,
+    "Two-Bedroom": 1430,
+    "Three-Bedroom": 1830,
+    "Four-Bedroom": 2290
+  },
+  {
+    "zip_code": "75454",
+    "Efficiency": 2370,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2890,
+    "Three-Bedroom": 3640,
+    "Four-Bedroom": 4630
+  },
+  {
+    "zip_code": "75458",
+    "Efficiency": 1240,
+    "One-Bedroom": 1290,
+    "Two-Bedroom": 1510,
+    "Three-Bedroom": 1900,
+    "Four-Bedroom": 2420
+  },
+  {
+    "zip_code": "75469",
+    "Efficiency": 910,
+    "One-Bedroom": 970,
+    "Two-Bedroom": 1130,
+    "Three-Bedroom": 1420,
+    "Four-Bedroom": 1810
+  },
+  {
+    "zip_code": "75474",
+    "Efficiency": 1150,
+    "One-Bedroom": 1190,
+    "Two-Bedroom": 1400,
+    "Three-Bedroom": 1760,
+    "Four-Bedroom": 2240
+  },
+  {
+    "zip_code": "75485",
+    "Efficiency": 1840,
+    "One-Bedroom": 1910,
+    "Two-Bedroom": 2240,
+    "Three-Bedroom": 2820,
+    "Four-Bedroom": 3590
+  },
+  {
+    "zip_code": "75491",
+    "Efficiency": 860,
+    "One-Bedroom": 870,
+    "Two-Bedroom": 1090,
+    "Three-Bedroom": 1520,
+    "Four-Bedroom": 1760
+  },
+  {
+    "zip_code": "75495",
+    "Efficiency": 1270,
+    "One-Bedroom": 1270,
+    "Two-Bedroom": 1570,
+    "Three-Bedroom": 2170,
+    "Four-Bedroom": 2510
+  },
+  {
+    "zip_code": "75496",
+    "Efficiency": 1010,
+    "One-Bedroom": 1060,
+    "Two-Bedroom": 1260,
+    "Three-Bedroom": 1610,
+    "Four-Bedroom": 2030
+  },
+  {
+    "zip_code": "76041",
+    "Efficiency": 1510,
+    "One-Bedroom": 1570,
+    "Two-Bedroom": 1840,
+    "Three-Bedroom": 2310,
+    "Four-Bedroom": 2940
+  },
+  {
+    "zip_code": "76050",
+    "Efficiency": 1220,
+    "One-Bedroom": 1260,
+    "Two-Bedroom": 1480,
+    "Three-Bedroom": 1950,
+    "Four-Bedroom": 2410
+  },
+  {
+    "zip_code": "76051",
+    "Efficiency": 1930,
+    "One-Bedroom": 1990,
+    "Two-Bedroom": 2330,
+    "Three-Bedroom": 3070,
+    "Four-Bedroom": 3810
+  },
+  {
+    "zip_code": "76052",
+    "Efficiency": 2030,
+    "One-Bedroom": 2100,
+    "Two-Bedroom": 2460,
+    "Three-Bedroom": 3230,
+    "Four-Bedroom": 4010
+  },
+  {
+    "zip_code": "76055",
+    "Efficiency": 1070,
+    "One-Bedroom": 1120,
+    "Two-Bedroom": 1310,
+    "Three-Bedroom": 1650,
+    "Four-Bedroom": 2120
+  },
+  {
+    "zip_code": "76063",
+    "Efficiency": 1740,
+    "One-Bedroom": 1800,
+    "Two-Bedroom": 2100,
+    "Three-Bedroom": 2770,
+    "Four-Bedroom": 3430
+  },
+  {
+    "zip_code": "76064",
+    "Efficiency": 1560,
+    "One-Bedroom": 1620,
+    "Two-Bedroom": 1900,
+    "Three-Bedroom": 2390,
+    "Four-Bedroom": 3040
+  },
+  {
+    "zip_code": "76065",
+    "Efficiency": 1770,
+    "One-Bedroom": 1840,
+    "Two-Bedroom": 2160,
+    "Three-Bedroom": 2720,
+    "Four-Bedroom": 3460
+  },
+  {
+    "zip_code": "76078",
+    "Efficiency": 1230,
+    "One-Bedroom": 1250,
+    "Two-Bedroom": 1610,
+    "Three-Bedroom": 2210,
+    "Four-Bedroom": 2680
+  },
+  {
+    "zip_code": "76084",
+    "Efficiency": 1630,
+    "One-Bedroom": 1680,
+    "Two-Bedroom": 1970,
+    "Three-Bedroom": 2570,
+    "Four-Bedroom": 3200
+  },
+  {
+    "zip_code": "76092",
+    "Efficiency": 1890,
+    "One-Bedroom": 1950,
+    "Two-Bedroom": 2290,
+    "Three-Bedroom": 2980,
+    "Four-Bedroom": 3720
+  },
+  {
+    "zip_code": "76177",
+    "Efficiency": 1750,
+    "One-Bedroom": 1810,
+    "Two-Bedroom": 2120,
+    "Three-Bedroom": 2770,
+    "Four-Bedroom": 3440
+  },
+  {
+    "zip_code": "76201",
+    "Efficiency": 1340,
+    "One-Bedroom": 1400,
+    "Two-Bedroom": 1640,
+    "Three-Bedroom": 2060,
+    "Four-Bedroom": 2630
+  },
+  {
+    "zip_code": "76202",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "76203",
+    "Efficiency": 1340,
+    "One-Bedroom": 1400,
+    "Two-Bedroom": 1640,
+    "Three-Bedroom": 2060,
+    "Four-Bedroom": 2630
+  },
+  {
+    "zip_code": "76204",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "76205",
+    "Efficiency": 1400,
+    "One-Bedroom": 1460,
+    "Two-Bedroom": 1710,
+    "Three-Bedroom": 2150,
+    "Four-Bedroom": 2740
+  },
+  {
+    "zip_code": "76206",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "76207",
+    "Efficiency": 1660,
+    "One-Bedroom": 1720,
+    "Two-Bedroom": 2020,
+    "Three-Bedroom": 2540,
+    "Four-Bedroom": 3230
+  },
+  {
+    "zip_code": "76208",
+    "Efficiency": 1620,
+    "One-Bedroom": 1690,
+    "Two-Bedroom": 1980,
+    "Three-Bedroom": 2490,
+    "Four-Bedroom": 3170
+  },
+  {
+    "zip_code": "76209",
+    "Efficiency": 1430,
+    "One-Bedroom": 1480,
+    "Two-Bedroom": 1740,
+    "Three-Bedroom": 2190,
+    "Four-Bedroom": 2790
+  },
+  {
+    "zip_code": "76210",
+    "Efficiency": 1810,
+    "One-Bedroom": 1890,
+    "Two-Bedroom": 2210,
+    "Three-Bedroom": 2780,
+    "Four-Bedroom": 3540
+  },
+  {
+    "zip_code": "76226",
+    "Efficiency": 2380,
+    "One-Bedroom": 2470,
+    "Two-Bedroom": 2900,
+    "Three-Bedroom": 3650,
+    "Four-Bedroom": 4640
+  },
+  {
+    "zip_code": "76227",
+    "Efficiency": 2020,
+    "One-Bedroom": 2110,
+    "Two-Bedroom": 2470,
+    "Three-Bedroom": 3110,
+    "Four-Bedroom": 3950
+  },
+  {
+    "zip_code": "76234",
+    "Efficiency": 940,
+    "One-Bedroom": 940,
+    "Two-Bedroom": 1240,
+    "Three-Bedroom": 1710,
+    "Four-Bedroom": 2070
+  },
+  {
+    "zip_code": "76247",
+    "Efficiency": 2150,
+    "One-Bedroom": 2230,
+    "Two-Bedroom": 2620,
+    "Three-Bedroom": 3300,
+    "Four-Bedroom": 4200
+  },
+  {
+    "zip_code": "76249",
+    "Efficiency": 1640,
+    "One-Bedroom": 1710,
+    "Two-Bedroom": 2000,
+    "Three-Bedroom": 2520,
+    "Four-Bedroom": 3200
+  },
+  {
+    "zip_code": "76258",
+    "Efficiency": 1250,
+    "One-Bedroom": 1300,
+    "Two-Bedroom": 1530,
+    "Three-Bedroom": 1940,
+    "Four-Bedroom": 2450
+  },
+  {
+    "zip_code": "76259",
+    "Efficiency": 1370,
+    "One-Bedroom": 1430,
+    "Two-Bedroom": 1670,
+    "Three-Bedroom": 2100,
+    "Four-Bedroom": 2670
+  },
+  {
+    "zip_code": "76262",
+    "Efficiency": 1730,
+    "One-Bedroom": 1800,
+    "Two-Bedroom": 2110,
+    "Three-Bedroom": 2690,
+    "Four-Bedroom": 3400
+  },
+  {
+    "zip_code": "76266",
+    "Efficiency": 1500,
+    "One-Bedroom": 1560,
+    "Two-Bedroom": 1830,
+    "Three-Bedroom": 2300,
+    "Four-Bedroom": 2930
+  },
+  {
+    "zip_code": "76272",
+    "Efficiency": 980,
+    "One-Bedroom": 1030,
+    "Two-Bedroom": 1210,
+    "Three-Bedroom": 1530,
+    "Four-Bedroom": 1980
+  },
+  {
+    "zip_code": "76623",
+    "Efficiency": 1270,
+    "One-Bedroom": 1320,
+    "Two-Bedroom": 1550,
+    "Three-Bedroom": 1950,
+    "Four-Bedroom": 2480
+  },
+  {
+    "zip_code": "76626",
+    "Efficiency": 950,
+    "One-Bedroom": 990,
+    "Two-Bedroom": 1170,
+    "Three-Bedroom": 1600,
+    "Four-Bedroom": 1890
+  },
+  {
+    "zip_code": "76641",
+    "Efficiency": 1070,
+    "One-Bedroom": 1120,
+    "Two-Bedroom": 1310,
+    "Three-Bedroom": 1650,
+    "Four-Bedroom": 2120
+  },
+  {
+    "zip_code": "76651",
+    "Efficiency": 1200,
+    "One-Bedroom": 1250,
+    "Two-Bedroom": 1460,
+    "Three-Bedroom": 1840,
+    "Four-Bedroom": 2340
+  },
+  {
+    "zip_code": "76670",
+    "Efficiency": 900,
+    "One-Bedroom": 960,
+    "Two-Bedroom": 1150,
+    "Three-Bedroom": 1480,
+    "Four-Bedroom": 1860
+  }
+]
