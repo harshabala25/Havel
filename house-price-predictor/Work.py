@@ -9,6 +9,8 @@ from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from sklearn.metrics import r2_score
+from sklearn.linear_model import LinearRegression
+import joblib
 
 load_dotenv()
 token = os.environ["HUD_ACCESS_TOKEN"]
@@ -50,8 +52,9 @@ melted_df = df.melt(
 bedroom_map = {
     "Efficiency" : 0,
     "One-Bedroom" : 1,
-    "Three-Bedroom" : 2,
-    "Four-Bedroom" : 3
+    "Two-Bedroom" : 2,
+    "Three-Bedroom" : 3,
+    "Four-Bedroom" : 4
 }
 
 melted_df['bedrooms'] = melted_df['bedroom_type'].map(bedroom_map)
@@ -64,7 +67,6 @@ df_encoded = pd.get_dummies(melted_df, columns=["zip_code"])
 
 X = df_encoded.drop(columns=['bedroom_type','rent'])
 y = df_encoded['rent']
-
 
 #this is just standard training
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2, random_state = 42)
@@ -106,4 +108,43 @@ xgb_r2 = r2_score(y_test, xgb_predictions)
 print(f"XGBoost MAE: {xgb_mae}")
 print(f"XGBoost RMSE: {xgb_rmse}")
 print(f"XGBoost R²: {xgb_r2}")
+
+#lets do work with linear
+#first get the model no need for randomState = 42
+linear_model = LinearRegression()
+
+nan_counts = X.isna().sum()
+print(nan_counts[nan_counts > 0])   
+
+#train the model
+linear_model.fit(X_train, y_train)
+
+#test it with predictions to see how good it is
+linear_model_prediction = linear_model.predict(X_test)
+
+nan_counts = X.isna().sum()
+print(nan_counts[nan_counts > 0])
+
+linear_model_mae = mean_absolute_error(y_test, linear_model_prediction)
+linear_model_rmse = np.sqrt(mean_squared_error(y_test, linear_model_prediction))
+linear_model_r2 = r2_score(y_test, linear_model_prediction)
+
+print(f"Linear MAE: {linear_model_mae}")
+print(f"Linear RMSE: {linear_model_rmse}")
+print(f"Linear R²: {linear_model_r2}")
+
+joblib.dump(xgb_model, 'rent_model.pkl')
+
+with open('model_columns.json', 'w') as f:
+    json.dump(list(X.columns), f)
+
+
+
+
+
+
+
+
+
+
 
