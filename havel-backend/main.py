@@ -16,7 +16,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://havel.vercel.app",  # replace with your actual frontend URL once deployed
+        "https://havel-sigma.vercel.app",
     ],
     allow_methods=["*"],
     allow_headers=["*"],
