@@ -14,7 +14,10 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://havel.vercel.app",  # replace with your actual frontend URL once deployed
+    ],
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -41,6 +44,3 @@ def predict_rent(request: RentRequest):
     prediction = model.predict(input_data)
     
     return {"predicted_rent": float(prediction[0])}
-
-    
-
