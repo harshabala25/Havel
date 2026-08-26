@@ -1,0 +1,1 @@
+Havel is a full-stack rental price prediction application tailored for the Dallas-Fort Worth (DFW) area. By leveraging localized HUD data and  XGBoost, Havel allows users to input their target ZIP code and apartment specifications to instantly generate accurate rent estimates.
